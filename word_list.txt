@@ -1,0 +1,15 @@
+::Greek deities::
+agelasta,adriel,gilling,qurai,makeatutara,dakuwaqa,nisien,arensnuphis,ixtlilton,arnemetia
+cynthia,adamanthea,theona,thaumas,syrus,urania,aethalides,strophius,poeas,licymnius
+::Locations::
+ukrainians,finn,azan,yinglish,underworld,tjorven,hideaki,shengjingornis,understand,yurlungur
+pittsburg,camprodon,benabarre,crestones,gibellina,dodoni,waalwijk,euryalus,herrenhausen,bethesda
+::Modern Technology::
+journal,cryptocrystalline,bracket,tenkan,svarga,lyapunov,aequitas,inquisitor,oxep,mhaismal
+digroup,overmodulation,semivariance,tera,bayesian,pino,photocurrent,tuple,absys,winwebsec
+::Animals::
+papa,meripilus,samulayo,goewin,inapertwa,verminus,flesh,sparky,planktology,manger
+canard,haematomyzus,acinonyx,simbi,vritra,bulganbaatar,sunnyodon,bernardodon,platysaurus,baeotus
+::Plants::
+chamaesaura,nopaline,triacanthodes,wigomat,cerithiopsina,dinocardium,parafluda,plesiochoffatia,cernaysia,blight
+pepper,jamesianthus,stuckenia,markhamia,anthospermopsis,carlia,cypress,oxalidales,fendlerella,polytrias
